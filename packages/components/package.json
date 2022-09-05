@@ -9,10 +9,14 @@
   "main": "./dist/esm/index.js",
   "module": "./dist/esm/index.js",
   "typings": "./dist/esm/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],
   "scripts": {
     "build": "father build"
-  }
+  },
+  "gitHead": "3a5755636fcf4366144e942467b6e8e5ae2b9370"
 }
