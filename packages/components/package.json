@@ -17,6 +17,5 @@
   ],
   "scripts": {
     "build": "father build"
-  },
-  "gitHead": "3a5755636fcf4366144e942467b6e8e5ae2b9370"
+  }
 }
