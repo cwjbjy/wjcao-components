@@ -53,7 +53,7 @@ export default defineConfig({
       },
       {
         title: '通用', //分类
-        children: ['Foo', 'Button', 'Background', 'Image', 'Magnifying', 'Menu'],
+        children: ['Background', 'Image', 'Magnifying', 'Menu'],
       },
     ],
   },
