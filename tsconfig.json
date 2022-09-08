@@ -3,11 +3,23 @@
     "target": "esnext",
     "module": "esnext",
     "moduleResolution": "node",
-    "jsx": "react",
+    "jsx": "react-jsx",
     "esModuleInterop": true,
-    "types": ["jest"],
     "strict": true,
     "skipLibCheck": true,
-    "declaration": true
-  }
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "declaration": true,
+    "baseUrl": "."
+  },
+  "include": [
+    "typings.d.ts",
+    "**/src/**/*",
+    "**/docs/**/*",
+    "scripts/**/*",
+    "**/demos",
+    ".eslintrc.js",
+    "packages/tools/tsconfig.json"
+  ],
+  "exclude": ["node_modules", "lib", "es", "dist"]
 }

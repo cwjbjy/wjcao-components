@@ -1,21 +1,19 @@
 ---
 hero:
-  title: my-dumi
-  desc: my-dumi site example
+  title: 组件库文档
+  desc: 前端组件库
   actions:
-    - text: Getting Started
+    - text: 开始使用
       link: /components
 features:
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
-    title: Feature 1
-    desc: Balabala
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png
-    title: Feature 2
-    desc: Balabala
+  - icon: https://mdn.alipayobjects.com/yuyan_qk0oxh/afts/img/q48YQ5X4ytAAAAAAAAAAAAAAFl94AQBr
+    title: 简单易用
+    desc: 不同的页面查看不同的文档，简单明确
+  - icon: https://mdn.alipayobjects.com/yuyan_qk0oxh/afts/img/Y_NMQKxw7OgAAAAAAAAAAAAAFl94AQBr
+    title: 简洁美观
+    desc: 合理的布局优雅呈现
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
-    title: Feature 3
-    desc: Balabala
+    title: 所见即所得
+    desc: 示例直接运行最终代码，所见即所得
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
-
-## Hello my-dumi!
