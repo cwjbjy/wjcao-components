@@ -18,3 +18,4 @@ nav:
 | -------------------------------- | ------------------ |
 | [@wjcao/components](/components) | 常用的公共基础组件 |
 | [@wjcao/hooks](/hooks)           | 常用的 React Hooks |
+| [@wjcao/utils](/utils)           | 常用的工具包       |

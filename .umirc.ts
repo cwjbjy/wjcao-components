@@ -37,6 +37,10 @@ export default defineConfig({
           title: '@wjcao/hooks',
           path: '/hooks',
         },
+        {
+          title: '@wjcao/utils',
+          path: '/utils',
+        },
       ],
     },
     {

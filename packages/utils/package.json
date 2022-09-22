@@ -1,0 +1,31 @@
+{
+  "private": false,
+  "name": "@wjcao/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "cwj <595842570@qq.com>",
+  "homepage": "https://github.com/cwjbjy/wjcao-components#readme",
+  "license": "ISC",
+  "main": "./dist/esm/index.js",
+  "module": "./dist/esm/index.js",
+  "typings": "./dist/esm/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/cwjbjy/wjcao-components.git"
+  },
+  "scripts": {
+    "build": "father build"
+  },
+  "bugs": {
+    "url": "https://github.com/cwjbjy/wjcao-components/issues"
+  },
+  "dependencies": {
+    "spark-md5": "^3.0.2"
+  }
+}
